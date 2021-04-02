@@ -18,6 +18,7 @@ $ touch install.sh
 ### Copy the following code into `install.sh` 
 
 ```
+#!/bin/bash
 
 # Install Productivity Applications
 
@@ -38,10 +39,11 @@ brew install --cask microsoft-teams
 brew install --cask slack
 brew install --cask zoomus
 brew install --cask messenger
+brew install --cask telegram
 
 # Development Tools
 
-brew install --cask dbeaver-ce
+brew install --cask dbeaver-community
 brew install --cask vscode
 brew install --cask visual-studio
 brew install --cask sublime-text
