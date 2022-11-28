@@ -22,14 +22,15 @@ $ touch install.sh
 
 # Install Productivity Applications
 
-brew install google-backup-and-sync
+brew install google-drive
 brew install google-chrome
 brew install kindle
 brew install spotify
 brew install adobe-acrobat-reader
 brew install shiftit
 brew install evernote
-brew install brave
+brew install brave-browser
+brew install iterm2
 
 # Communication Tools
 
@@ -40,12 +41,13 @@ brew install messenger
 brew install telegram
 brew install viber
 brew install discord
+brew install ticktick
 
 
 # Development Tools
 
 brew install dbeaver-community
-brew install vscode
+brew install visual-studio-code
 brew install sublime-text
 brew install postman
 brew install docker
